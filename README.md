@@ -6,5 +6,5 @@
 <li>Filter message content</li>
 <li>The email and message saved in local storage</li>
 <ul>
-![](com1.png)
+![pic](https://github.com/ellatom/Comments/blob/master/com1.png)
   
